@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Design</string>
+
+    <string name="CharactersStr">Characters</string>
+    <string name="WeaponsStr">Weapons</string>
+
+    <string name="ElementStr">Element</string>
+    <string name="RoleStr">Role</string>
+    <string name="WeaponTypeStr">Type of weapon</string>
+    <string name="RarityStr">Rarity</string>
+    <string name="ChainStr">Chain</string>
+
+    <string name="DarkStr">Dark</string>
+    <string name="LightStr">Light</string>
+    <string name="BasicStr">Basic</string>
+    <string name="FireStr">Fire</string>
+    <string name="WaterStr">Water</string>
+    <string name="EarthStr">Earth</string>
+
+    <string name="TankStr">Tank</string>
+    <string name="RangerStr">Ranger</string>
+    <string name="SupportStr">Support</string>
+    <string name="WarriorStr">Warrior</string>
+
+    <string name="TwoHSwordStr">2HSword</string>
+    <string name="BasketStr">Basket</string>
+    <string name="BowStr">Bow</string>
+    <string name="ClawsStr">Claws</string>
+    <string name="KnucklesStr">Knuckles</string>
+    <string name="RifleStr">Rifle</string>
+    <string name="StaffStr">Staff</string>
+    <string name="SwordStr">Sword</string>
+
+    <string name="ExclusiveStr">Exclusive</string>
+    <string name="LegendaryStr">Legendary</string>
+    <string name="UniqueStr">Unique</string>
+    <string name="RareStr">Rare</string>
+    <string name="CommonStr">Common</string>
+
+    <string name="AirStr">Air</string>
+    <string name="DownStr">Downed</string>
+    <string name="InjurStr">Injured</string>
+
+    <string name="headerHeroInformation">Hero information</string>
+
+    <string name="loremIpsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tempus molestie lectus, non tincidunt mauris tristique efficitur. Quisque tristique vehicula ligula, a dapibus nibh ullamcorper laoreet. Suspendisse lobortis sollicitudin nunc, faucibus ullamcorper urna auctor sed. Cras rhoncus orci quis turpis suscipit, in vestibulum augue congue. Donec dui lacus, gravida ac hendrerit sit amet, aliquam ut ex. Cras ac leo massa. Suspendisse maximus risus vitae velit ornare faucibus. Curabitur tempus laoreet urna. Ut feugiat tortor ac metus ullamcorper, in ullamcorper ante mattis. Morbi mollis dignissim pulvinar. Aenean iaculis rhoncus suscipit. Praesent sollicitudin faucibus massa, in dapibus mauris hendrerit non. Duis tristique erat quis diam tempor, quis bibendum ipsum faucibus. Duis porttitor mauris accumsan, finibus est eget, sodales ex. Maecenas faucibus vitae turpis et rhoncus. Integer semper fringilla arcu et iaculis. Nam ornare urna et varius tempus. Nunc varius velit ut placerat laoreet. Suspendisse at lacus sit amet arcu mattis pulvinar in ut nulla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque pulvinar leo eros, et viverra eros porta sed. Vestibulum est ipsum, porttitor nec nisl at, tincidunt fringilla turpis. In hac habitasse platea dictumst. Donec interdum libero eu mi vulputate dapibus. Aliquam faucibus eleifend est, vel pellentesque ex sagittis sit amet. Mauris sagittis odio mi, quis elementum enim blandit sed. Nam et sapien id leo lobortis euismod sed nec orci. Cras posuere sapien a urna imperdiet, vitae rhoncus ante mattis. Sed maximus ullamcorper ipsum, ut condimentum nisi feugiat nec. Quisque et neque id eros sollicitudin blandit. Aliquam in blandit lacus, ut bibendum magna. Maecenas et leo vitae orci rhoncus hendrerit nec id est. Morbi nec sollicitudin eros. Vestibulum eu dui et mi rutrum semper. Pellentesque at tincidunt risus. Praesent vitae ornare metus. Nunc mollis nulla at tortor ultrices consequat. Donec faucibus purus non efficitur dignissim. Etiam et rhoncus odio. Mauris rutrum pellentesque eros quis pretium. Sed non pharetra libero, non eleifend justo. Pellentesque non lacus eu ipsum volutpat suscipit. Donec sodales porta velit, venenatis auctor nisi viverra a. Phasellus vitae dui laoreet, elementum libero at, consequat urna. In hac habitasse platea dictumst. Quisque augue velit, gravida vitae pharetra ut, dictum id dolor. In et pellentesque risus, in varius erat. Integer volutpat iaculis nibh. Nam non massa dapibus, mattis leo in, finibus eros. Curabitur non blandit metus. Curabitur laoreet, turpis nec tempor venenatis, ligula justo congue est, sed consequat mauris neque vel nulla. Morbi congue massa at quam efficitur, eu sollicitudin leo porttitor. Pellentesque commodo velit quis quam elementum sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam tincidunt mauris enim, non bibendum sem ultricies sit amet.</string>
+</resources>
